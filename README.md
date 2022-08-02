@@ -25,7 +25,7 @@ Engine:
 - [Stockfish 14 Dev Version!](https://abrok.eu/stockfish/builds/ad357e147a1b8481a04761d726ce1db14115a68f/linux64modern/stockfish_21082721_x64_modern.zip) with the default NNUE.
 
 Opening Books: 
-- [Goi5.1.bin](https://gitlab.com/OIVAS7572/Goi5.1.bin/-/raw/master/Goi5.1.bin.7z)
+- [Goi5.1.bin](https://gitlab.com/OIVAS7572/Goi5.1.bin/-/raw/MEGA/Goi5.1.bin.7z)
 - [Perfect2021.bin](/Perfect2021.bin)
 
 **If you would like to run bot locally on PC, read the [lichess-bot manual](https://github.com/ShailChoksi/lichess-bot#how-to-install).**
